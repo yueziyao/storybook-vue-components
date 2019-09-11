@@ -1,4 +1,4 @@
-import Button from '../packages/button/index.js'
+import Button from 'button/index.js'
 
 const components = [
     Button
